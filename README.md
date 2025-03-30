@@ -1,5 +1,4 @@
 # Qais
-Cybersecurity | SOC Analyst | coding  | Since 2014
 
 👨‍💻 **Cybersecurity Enthusiast | SOC Analyst | Started Coding at 9 | Active Since 2014**
 
@@ -27,9 +26,9 @@ Hi there! I'm Qais — passionate about cybersecurity since childhood. I began m
 
 ## 🌐 My Profiles
 - [LinkedIn – Qais Kabha](https://www.linkedin.com/in/qais-kabha)
-- [TryHackMe – Qais](https://tryhackme.com/p/QaisKA) (i don't use it)
+- [TryHackMe – IF5M](https://tryhackme.com/p/IF5M)
 - [CyberDefenders – IF5M](https://cyberdefenders.org/p/IF5M)
-- [CTFlearn – IF5M](https://ctflearn.com/user/IF5M) (i don't use it)
+- [CTFlearn – IF5M](https://ctflearn.com/user/IF5M)
 
 ---
 
