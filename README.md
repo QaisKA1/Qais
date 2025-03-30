@@ -18,7 +18,7 @@ Hi there! I'm Qais — passionate about cybersecurity since childhood. I began m
 ---
 
 ## 🧠 Certifications & Experience
-- 🎓 Professional Diploma in Cybersecurity – University of Jordan
+- 🎓 Cybersecurity Training Diploma – University of Jordan
 - 🧾 CCNA Certified
 - 🎖️ Over 30 Technical Certifications from Microsoft
 - 📄 1 Year of Professional Experience as a SOC Analyst
@@ -27,9 +27,9 @@ Hi there! I'm Qais — passionate about cybersecurity since childhood. I began m
 
 ## 🌐 My Profiles
 - [LinkedIn – Qais Kabha](https://www.linkedin.com/in/qais-kabha)
-- [TryHackMe – Qais](https://tryhackme.com/p/QaisKA)
+- [TryHackMe – Qais](https://tryhackme.com/p/QaisKA) (i don't use it)
 - [CyberDefenders – IF5M](https://cyberdefenders.org/p/IF5M)
-- [CTFlearn – IF5M](https://ctflearn.com/user/IF5M) (i stop use it from years)
+- [CTFlearn – IF5M](https://ctflearn.com/user/IF5M) (i don't use it)
 
 ---
 
